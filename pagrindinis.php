@@ -8,21 +8,21 @@
 </head>
 <body>
     <?php 
-        // $skaicius = 5; //integer
-        // $skaicius1 = 10.2; // float
-        // $teksas = "tekstas"; //string
+        $skaicius = 5; //integer
+        $skaicius1 = 10.2; // float
+        $teksas = "tekstas"; //string
     
-        // var_dump($skaicius);
-        // var_dump($skaicius1);
-        // var_dump($teksas);
+        var_dump($skaicius);
+        var_dump($skaicius1);
+        var_dump($teksas);
 
 
-        // $teksas1 = 'tekstas';
+        $teksas1 = 'tekstas';
 
-        // //echo/print = integer, float, string
+        //echo/print = integer, float, string
 
-        // $tiesaMelas = true;//boolean
-        // $tiesaMelas1 = true;//boolean
+        $tiesaMelas = true;//boolean
+        $tiesaMelas1 = true;//boolean
 
         // //print_r($tiesaMelas1);
 
